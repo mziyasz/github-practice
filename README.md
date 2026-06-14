@@ -4,7 +4,7 @@
 
 Practice and coursework repository for Git & GitHub.
 
-## GitHub skills I practiced
+## github skills i practiced
 
 * Creating a repository
 * Creating a branch
