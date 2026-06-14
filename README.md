@@ -9,3 +9,6 @@ Practice and coursework repository for Git & GitHub.
 * Creating a repository
 * Creating a branch
 *  Opening and merging a pull request
+
+
+Small Change
